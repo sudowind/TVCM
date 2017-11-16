@@ -2,3 +2,5 @@
 .gitignore
 .idea/
 git rm --cached -r .idea
+src/data/
+src/__pycache__/
